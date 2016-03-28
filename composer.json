@@ -1,0 +1,10 @@
+{
+  "name": "head-first-design-patterns",
+  "type": "project",
+  "description": "Exploring the design patterns from Head First Design Patterns",
+  "autoload": {
+    "psr-4": {
+      "strategy\\": "01-strategy"
+    }
+  }
+}
